@@ -1,6 +1,6 @@
 ### Olá! Me chamo Ewerton Vinicius 🖐️
-### Sou estudante de Ciência da Computação, atualmente no 3 semestre.
-### Começando minha carreira como Dev Mobile, com o foco em React-Native. 
+### Sou estudante de Ciência da Computação, atualmente no 4 semestre.
+### Começando minha carreira como Dev Mobile, com o foco em tecnologias crossplataform como React-Native e Flutter. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-vinicius-turco-487107204/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filhotedo_diabo/)
