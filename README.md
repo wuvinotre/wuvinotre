@@ -1,20 +1,36 @@
-### Olá! Me chamo Ewerton Vinicius 🖐️
-### Sou estudante de Ciência da Computação, atualmente no 4 semestre.
-### Começando minha carreira como Dev Mobile, com o foco em tecnologias crossplataform como React-Native e Swift. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-vinicius-turco-487107204/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filhotedo_diabo/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FilhoteDoDiaboo)
 
-![Wuvinotre GitHub stats](https://github-readme-stats.vercel.app/api?username=wuvinotre&show_icons=true&theme=tokyonight)
+My name is Vinicius and I am an undergraduate student in Computer Science
 
-### Tecnologias que uso no meu dia.
+```swift
+class ComputerScientist {
+  let name: String
+  let age: Int
+  let role: String
+  let langueges: [String]
+  let code: [String]
+  let tools: [String]
+  let others: [String]
 
-<div style="display: inline_block"><br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-</div>
+  init() {
+    self.name = "Vuinishiusu"
+    self.age = 21
+    self.role = "Mobile Developer"
+    self.langueges = ["Portuguese", "English", "Japanese"]
+    self.code = ["Javascript", "Typescript", "Swift", "Kotlin", "Python", "PHP", "Java"]
+    self.tools = ["React Native", "ReactJS", "NodeJS", "SwiftUI", "Jest", "MongoDB", "MySQL", "Firebase"]
+    self.others = ["Styled-Components", "Tamagui", "Chakra-UI"]
+  }
+
+  func sayHello() {
+    print("Thanks for dropping by, hope you find some of my work interesting.")
+  }
+}
+
+  let me = ComputerScientist()
+  me.sayHello()
+```
+
+[![Twitter: Vuinishiusu](https://img.shields.io/twitter/follow/_Vuinishiusu?style=social)](https://twitter.com/_Vuinishiusu)
+[![Linkedin: Vuinishiusu](https://img.shields.io/badge/-vuinishiusu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vuinishiusu/)](https://www.linkedin.com/in/vuinishiusu/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wuvinotre.wuvinotre&left_color=gray&right_color=gray)
