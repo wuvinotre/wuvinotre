@@ -1,6 +1,6 @@
 
 
-My name is Vinicius and I am an undergraduate student in Computer Science
+My name is Vinicius and I am an undergraduate student in Computer Science with 3 years of experience in software development
 
 ```swift
 class ComputerScientist {
