@@ -7,7 +7,7 @@ class ComputerScientist {
   let name: String
   let age: Int
   let role: String
-  let langueges: [String]
+  let languages: [String]
   let code: [String]
   let tools: [String]
   let others: [String]
@@ -16,7 +16,7 @@ class ComputerScientist {
     self.name = "Vuinishiusu"
     self.age = 21
     self.role = "Mobile Developer"
-    self.langueges = ["Portuguese", "English", "Japanese"]
+    self.languages = ["Portuguese", "English", "Japanese"]
     self.code = ["Javascript", "Typescript", "Swift", "Kotlin", "Python", "PHP", "Java"]
     self.tools = ["React Native", "ReactJS", "NodeJS", "SwiftUI", "Jest", "MongoDB", "MySQL", "Firebase"]
     self.others = ["Styled-Components", "Tamagui", "Chakra-UI"]
